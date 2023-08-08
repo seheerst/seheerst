@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi! I'am Seher,<br>🔭 I am currently working on .net core and flutter<br>🌱 I’m currently learning .net core<br>💬 How to reach me seherselin9@gmail.com
+# 💫 Hi! I'am Seher,
+<br>🔭 I am currently working on .net core and flutter<br>🌱 I’m currently learning .net core<br>💬 How to reach me seherselin9@gmail.com
 
 
 ## 🌐 Socials:
