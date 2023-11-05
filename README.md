@@ -32,7 +32,7 @@
 
 ###
 
-<p><img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=seheerst&" alt = "seheerst" /></p>
+<p><img align = "center" style= "margin = auto" src = "https://github-readme-streak-stats.herokuapp.com/?user=seheerst&" alt = "seheerst" /></p>
 <p><img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=seheerst&show_icons=true&locale=en&layout=compact" alt = "seheerst" /> </p>
 <p> <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=seheerst&show_icons=true&locale=en" alt = "seheerst" /> </p>
 
